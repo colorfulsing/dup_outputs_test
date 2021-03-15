@@ -2,4 +2,4 @@ seeder:
   file: ./seeder/seeder.rb
 parsers:
   - file: ./parsers/test.rb
-    page_type: ./parsers/test.rb
+    page_type: test
